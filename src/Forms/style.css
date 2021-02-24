@@ -1,0 +1,11 @@
+.error{
+    color: red;
+}
+.field{
+    margin-bottom: 1em;}
+.form{
+    margin: 3% 0% 0% 39%;
+}
+.MuiTextField-root{
+width: 22em;
+}

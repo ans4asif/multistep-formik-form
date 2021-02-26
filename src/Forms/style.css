@@ -3,9 +3,36 @@
 }
 .field{
     margin-bottom: 1em;}
-.form{
+/* .form{
     margin: 3% 0% 0% 39%;
-}
+} */
 .MuiTextField-root{
 width: 22em;
+}
+.form-label{
+    text-align: center;
+}
+.account{
+    text-align: center;
+}
+.paper{
+    width: fit-content;
+    margin-left: 10em;
+    margin-right: 25em;
+    
+    
+}
+.MuiPaper-root{
+    background-color: blueviolet;
+}
+.btn-container{
+    margin: 1em 0em 1em 1em;
+
+}
+.submit-btn{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 2em;
+    margin-bottom: 1em;
 }

@@ -1,4 +1,3 @@
-import { string } from "yup/lib/locale"
 
 export interface Personal_Info{
     firstName: string,
@@ -12,7 +11,7 @@ export interface Account_Info{
     username:string,
     password:string,
     email:string,
-    re_password:string
+    confirmPassword:string
 }
 
    
